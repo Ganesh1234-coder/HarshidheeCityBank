@@ -8,5 +8,6 @@ public class test {
 	public static void main(String[] args) {
 		DateTest dt=new DateTest();
 		System.out.println(dt.getDate());
+		System.out.println("=========================");
 	}
 }
